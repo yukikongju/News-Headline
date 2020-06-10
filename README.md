@@ -11,8 +11,16 @@ This project is separated in 4 parts:
    not
 5. Perform theme analysis to discover which news are the most covered
 
-### Modules used
+### Website Scrapped
+1. whitehouse.gov : https://www.whitehouse.gov/about-the-white-house/the-white-house/
 
-- BeautifulSoup
+### Ressources used
+
+##### BeautifulSoup
+- BeautifulSoup Tutorial by FreeCodeCamp: https://www.youtube.com/watch?v=87Gx3U0BDlo
+- Computational Journalism: http://www.compjour.org/warmups/govt-text-releases/intro-to-bs4-lxml-parsing-wh-press-briefings/#finding-nested-elements 
+
+##### Flask
+- Flask Documentation: https://flask.palletsprojects.com/en/1.1.x/
 
 ### Interesting Findings
